@@ -1,4 +1,11 @@
 # CampusEats
+# Group no. 12
+## Group Members
+
+|Name|Roll no|
+|----|-------|
+|Aman Bali|20251651015|
+|Bhupesh Kumar|20251651032|
 
 CampusEats is a campus food ordering system designed to help students discover food options on campus, place orders, and track their orders.
 
@@ -34,6 +41,4 @@ This repository contains:
 * GitHub
 * Browser Developer Tools
 
-## Author
 
-Bhupesh Kumar
