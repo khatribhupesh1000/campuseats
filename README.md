@@ -18,11 +18,18 @@ The purpose of this project is to practice HTTP requests, web development concep
 ```text
 campuseats/
 ├── README.md
-├── http-log.md
-├── network-analysis.md
-├── brief.md
-└── docs/
-```
+├── Assignment 1/
+│   ├── brief.md
+│   ├── http-log.md
+│   └── network-analysis.md
+│
+└── Assignment 2/
+    ├── design.pdf
+    ├── schema.drawio
+    ├── schema.png
+    ├── schema.sql
+    ├── services.drawio
+    └── services.png
 
 ## Assignment Work
 
